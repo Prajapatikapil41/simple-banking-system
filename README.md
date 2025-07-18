@@ -22,7 +22,7 @@ Codveda Internship Project – Level 2 Task 3
 
 ## 🖼️ Screenshots
 
-📌 *Add screenshots of your UI here after running your project.*
+https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(175).png
 
 ---
 
