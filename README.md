@@ -1,7 +1,3 @@
-Here’s the complete **README.md** file customized for your **Simple Banking System** project (Spring Boot + MySQL + HTML/CSS/JS):
-
----
-
 # Simple Banking System (Java + Spring Boot + MySQL + HTML/CSS/JS)
 
 A simple full‑stack web application to simulate a basic banking system where users can deposit, withdraw, and check their balance. Frontend is built with HTML/CSS/JavaScript connected to a Spring Boot REST API and MySQL backend.
