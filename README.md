@@ -18,13 +18,13 @@ Codveda Internship Project – Level 2 Task 3
 
 ## 🖼️ Screenshots
 
-[ss!](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(175).png)
-[ss!](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(176).png)
-[ss!](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(177).png)
-[ss!](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(178).png)
-[ss!](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(179).png)
-[ss!](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(180).png)
-[ss!](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(181).png)
+![Bank](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(175).png)
+![Bank](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(176).png)
+![Bank](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(177).png)
+![Bank](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(178).png)
+![Bank](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(179).png)
+![Bank](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(180).png)
+![Bank](https://github.com/Prajapatikapil41/simple-banking-system/blob/main/images/Screenshot%20(181).png)
 
 ---
 
